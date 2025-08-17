@@ -1,0 +1,4 @@
+﻿# csv arhivo de data 400mb
+# Ignorar archivos grandes
+*.csv
+
